@@ -1,0 +1,52 @@
+const Map<String, List<String>> ingredientCategories = {
+  '🥛 Nabiał': [
+    'jogurt skyr','jogurt grecki','jogurt naturalny 2%','jogurt skyr pitny waniliowy',
+    'jogurt pitny truskawkowy','jogurt pitny bananowy','jogurt roślinny','mleko 1,5%',
+    'serek wiejski','serek śmietankowy','serek homogenizowany naturalny',
+    'ser twarogowy półtłusty','ser gouda','ser feta','mozzarella','ricotta',
+    'masło','margaryna',
+  ],
+  '🥩 Mięso & Ryby': [
+    'pierś kurczaka','szynka z kurczaka','szynka z indyka','pierś indyka',
+    'mięso mielone z indyka','łosoś wędzony','tuńczyk w sosie własnym',
+    'krewetki','dorsz świeży','salami','tofu',
+  ],
+  '🥦 Warzywa': [
+    'szpinak','papryka czerwona','pomidor','pomidorki koktajlowe','rzodkiewka',
+    'ogórek kiszony','cebula','cebula czerwona','czosnek','marchew','cukinia',
+    'seler naciowy','seler korzeniowy','pietruszka korzeń','rukola','miks sałat',
+    'sałata lodowa','roszponka','szparagi zielone','batat','ziemniaki',
+    'kapusta czerwona','pieczarki','fasolka szparagowa','fasolka szparagowa mrożona',
+    'mrożonka włoska','mieszanka warzywna mrożona','ciecierzyca konserwowa',
+    'fasola czerwona','fasola biała konserwowa','kukurydza','oliwki zielone',
+    'oliwki czarne','pomidory z puszki','passata pomidorowa','koncentrat pomidorowy',
+    'pomidory suszone','kiełki rzodkiewki',
+  ],
+  '🍎 Owoce': [
+    'banan','borówki','gruszka','jabłko','mango','maliny','truskawki',
+    'winogrona','brzoskwinia','pomarańcza','awokado','daktyle suszone',
+  ],
+  '🍞 Pieczywo & Gotowe': [
+    'chleb żytni razowy','bułka grahamka','tortilla pełnoziarnista','tortilla pszenna',
+    'wafle ryżowe','gnocchi','ciasto do naleśników','naleśniki z serem gotowe',
+    'placek pszenny Piadina','butter chicken gotowe danie',
+  ],
+  '🌾 Suche & Orzechy': [
+    'płatki owsiane górskie','ryż basmati','ryż biały','ryż jaśminowy',
+    'makaron pełnoziarnisty','makaron orzo','makaron ryżowy','kasza pęczak',
+    'kasza jaglana','mąka pszenna','mąka owsiana pełnoziarnista','mąka jaglana',
+    'nasiona chia','siemię lniane','płatki migdałów','orzechy włoskie','migdały',
+    'orzechy nerkowca','orzechy arachidowe','orzechy pistacjowe','mieszanka orzechów',
+  ],
+  '🫙 Przyprawy & Inne': [
+    'oliwa','olej rzepakowy','olej sezamowy','sos sojowy','bulion warzywny',
+    'pesto zielone','pesto czerwone','hummus','ketchup','majonez','musztarda',
+    'ocet balsamiczny','sok z cytryny','miód','erytrol','cynamon','kurkuma',
+    'tymianek','bazylia świeża','natka pietruszki','koper','szczypiorek','kolendra',
+    'chrzan tarty','kapary','przyprawa gyros','papryka słodka w proszku',
+    'papryka wędzona','zioła prowansalskie','płatki chilli','płatki drożdżowe',
+    'kakao gorzkie','czekolada gorzka 70%','masło orzechowe','odżywka białkowa',
+    'pudding proteinowy słony karmel','wanilia ekstrakt','dżem truskawkowy',
+    'dżem z czarnych porzeczek','imbir','jajko','salami',
+  ],
+};
